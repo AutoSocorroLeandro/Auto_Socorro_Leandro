@@ -102,7 +102,6 @@ main {
 .brand-mark {
   width: clamp(116px, 19vw, 174px);
   filter: drop-shadow(0 12px 18px rgba(0, 0, 0, 0.28));
-  animation: logoFloat 5s ease-in-out infinite;
 }
 
 .status-pill {
@@ -311,7 +310,6 @@ h1 {
   border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: 8px;
   box-shadow: var(--shadow);
-  animation: floatPhoto 6s ease-in-out infinite, photoGlow 4.6s ease-in-out infinite;
 }
 
 .features {
